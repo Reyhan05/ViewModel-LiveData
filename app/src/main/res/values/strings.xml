@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewModel-LiveData</string>
+    <string name="score_counter">Score Counter</string>
+    <string name="team_b">Team B</string>
+    <string name="team_a">Team A</string>
+    <string name="reset">Reset</string>
+</resources>
